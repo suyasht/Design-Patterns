@@ -1,0 +1,33 @@
+---------TEST NUMBER 1-----------
+The sum of all the values in the array list is : 231312
+Test sumOfValues passed 
+---------TEST NUMBER 2-----------
+Element doesnt exist
+Test findIndexOfValueThatExists Failed
+---------TEST NUMBER 3-----------
+Given Value doesn't exist
+Test removeAValueThatExits Failed
+---------TEST NUMBER 4-----------
+Size of the arrray is 87
+Test sizeOfArray Passed
+---------TEST NUMBER 5-----------
+The sum of all the values in the array list is : 231312
+Given Value doesn't exist
+The sum of all the values in the array list is : 231312
+Test sumBeforeAndAfterRemovingValue Failed
+---------TEST NUMBER 6-----------
+Size of the arrray is 87
+Given Value doesn't exist
+Size of the arrray is : 87
+Test sizeBeforeAndAfterRemovingValue Passed
+---------TEST NUMBER 7-----------
+Given Value doesn't exist
+Test removeValueMoreThanOnce Failed
+---------TEST NUMBER 8-----------
+Given Value doesn't exist
+Test removeAValueThatDoesNotExist Passed
+---------TEST NUMBER 9-----------
+Element doesnt exist
+Test findIndexOfValueThatDoesNotExist Passed
+---------TEST NUMBER 10-----------
+Test printArrayToConsole Passed
