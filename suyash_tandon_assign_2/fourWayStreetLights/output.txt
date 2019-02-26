@@ -1,0 +1,25 @@
+All Lights Turned Red
+Car added to Northside
+Total number of cars at Northside is 4
+Car added to Eastside
+Total number of cars at Eastside is 4
+Car added to Westside
+Total number of cars at Westside is 4
+Car added to Southside
+Total number of cars at Southside is 4
+Tarffic light at East turned Green
+2 cars left from East
+Light at east side turned red.
+Tarffic light at South turned Green
+2 cars left from South
+Light at South side turned Red.
+Tarffic light at North turned Green
+2 cars left from North
+Light at north side turned Red.
+Tarffic light at North turned Green
+2 cars left from North
+No car left at North
+Light at north side turned Red.
+Tarffic light at Westside turned Green
+2 cars left from West side
+Light at West side turned Red.

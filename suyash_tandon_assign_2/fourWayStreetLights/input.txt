@@ -1,0 +1,15 @@
+All Lights Red
+New Car at North
+New Car at East
+New Car at West
+New Car at South
+East turns Green
+East turns Red
+South turns Green
+South turns Red
+North turns Green
+North turns Red
+North turns Green
+North turns Red
+West turns Green
+West turns Red
